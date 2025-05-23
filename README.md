@@ -1,4 +1,4 @@
-Object_Detection
+Image detection
 Description:
 This is a python script which is used to classify the image using VGG16
 Usage:
