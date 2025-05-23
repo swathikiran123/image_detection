@@ -1,10 +1,10 @@
-Image detection
+**Image detection**
 
-Description:
+**Description:**
 
 This is a python script which is used to classify the image using VGG16
 
-Usage:
+**Usage:**
 
 step-1: clone the repository https://github.com/swathikiran123/image_detection
 
